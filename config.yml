@@ -1,0 +1,4 @@
+input_dir: 'data'
+max_passage_len: 72
+max_summary_len: 20
+latent_dim: 300
